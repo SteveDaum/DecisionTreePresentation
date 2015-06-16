@@ -1,0 +1,38 @@
+Links encountered while working on presentation:
+================================================
+
+Google data scientist explaining some large Google Machine Learning projects:
+https://www.youtube.com/watch?v=T1O3ikmTEdA
+
+Jeremy Howard – speaking at a developer meeting – good explanation of random forests.
+This guy was a chief data scientist at Kaggle.com – machine learning competition website.
+https://www.youtube.com/watch?v=kwt6XEh7U3g
+
+This is the book “Programming Collective Intelligence”
+It is an easy read and gives a gentle introduction to many machine learning approaches.
+Available as a free e-book.
+http://4free-ebooks.com/ebook/programming-collective-intelligence/hmtsm23d6 
+
+Direct link to the e-book here:
+http://www.eazydoc.com/5ta
+
+A "part-of-speech" tagger in Python
+https://honnibal.wordpress.com/2013/09/11/a-good-part-of-speechpos-tagger-in-about-200-lines-of-python/
+
+A good introduction to "Naïve Bays" classifier algorithm:
+http://machinelearningmastery.com/naive-bayes-classifier-scratch-python/
+
+List of books for learning about python and machine learning:
+http://www.quantstart.com/articles/Top-5-Essential-Books-for-Python-Machine-Learning
+
+A cool interactive word analysis of presidential state of the union speeches.
+http://www.theatlantic.com/features/archive/2015/01/the-language-of-the-state-of-the-union/384575/
+
+A post with many publicly available data sources
+http://blog.bigml.com/2013/02/28/data-data-data-thousands-of-public-data-sources/#comment-7538
+
+Course notes for the Coursera Machine Learning course:
+http://snip.ly/P7mW#http://www.holehouse.org/mlclass/index.html
+
+List of several data sets used in training/testing machine learning models:
+https://archive.ics.uci.edu/ml/datasets.html
